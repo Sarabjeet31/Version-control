@@ -16,7 +16,7 @@ Sgit is a lightweight, custom version control system designed to mimic the core 
 Clone this repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/Sarabjeet31/sgit.git
+git clone https://github.com/Sarabjeet31/Version-control.git
 cd sgit
 ```
 
