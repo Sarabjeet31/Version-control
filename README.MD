@@ -1,6 +1,3 @@
-Here is the updated `README.md` content without the license section:
-
-```markdown
 # Sgit - A Simple Version Control System
 
 Sgit is a lightweight, custom version control system designed to mimic the core functionalities of Git. It enables you to track changes to files, stage them, and commit them with ease, offering basic functionality like logging commits and displaying differences between file versions.
