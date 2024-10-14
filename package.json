@@ -1,0 +1,22 @@
+{
+  "name": "version_control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sgit": "./index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "crypto": "^1.0.1",
+    "diff": "^7.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
