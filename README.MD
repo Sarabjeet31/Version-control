@@ -33,7 +33,7 @@ npm install
 To initialize a new Sgit repository in the current directory:
 
 ```bash
-npx sgit init
+npx sarabjeet_sgit init
 ```
 
 This creates a `.Sgit` directory, which will store all objects and commit information.
@@ -43,13 +43,13 @@ This creates a `.Sgit` directory, which will store all objects and commit inform
 To add a file to the staging area:
 
 ```bash
-npx sgit add <filename>
+npx sarabjeet_sgit add <filename>
 ```
 
 Example:
 
 ```bash
-npx sgit add sample.txt
+npx sarabjeet_sgit add sample.txt
 ```
 
 ### Commit changes
@@ -57,13 +57,13 @@ npx sgit add sample.txt
 After staging files, commit them with a message:
 
 ```bash
-npx sgit commit "Your commit message"
+npx sarabjeet_sgit commit "Your commit message"
 ```
 
 Example:
 
 ```bash
-npx sgit commit "Initial commit"
+npx sarabjeet_sgit commit "Initial commit"
 ```
 
 ### View commit log
@@ -71,7 +71,7 @@ npx sgit commit "Initial commit"
 To view the commit history:
 
 ```bash
-npx sgit log
+npx sarabjeet_sgit log
 ```
 
 ### Show differences
@@ -79,13 +79,13 @@ npx sgit log
 To see the changes between the current commit and the previous one:
 
 ```bash
-npx sgit show <commitHash>
+npx sarabjeet_sgit show <commitHash>
 ```
 
 Example:
 
 ```bash
-npx sgit show 7b9d7266145f34073d310f02d42568c6c3213bb4
+npx sarabjeet_sgit show 7b9d7266145f34073d310f02d42568c6c3213bb4
 ```
 
 ### Check staged files status
@@ -93,7 +93,7 @@ npx sgit show 7b9d7266145f34073d310f02d42568c6c3213bb4
 To check the status of the staged files:
 
 ```bash
-npx sgit status
+npx sarabjeet_sgit status
 ```
 
 ## How It Works

@@ -1,8 +1,8 @@
 {
-  "name": "version_control",
+  "name": "sarabjeet_sgit",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
     "crypto": "^1.0.1",
     "diff": "^7.0.0",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "sarabjeet_sgit": "^1.0.0"
   }
 }
